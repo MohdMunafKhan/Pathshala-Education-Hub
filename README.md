@@ -8,7 +8,7 @@ Pathshala is a fully responsive educational website built using **React JS**, **
 
 ## Live Website
 
-👉 [Visit Pathshala on Netlify](https://pathshala-edu-hub.netlify.app/)  
+👉 [Visit Pathshala](https://pathshala-edu-hub.netlify.app/)  
 
 ---
 
@@ -76,7 +76,7 @@ cd pathshala
 npm install
 npm start
 
-
+```
 Purpose
 This project is developed to showcase my frontend development skills to recruiters and potential employers. It reflects my ability to build responsive, interactive, and accessible web applications using modern tech stacks.
 
