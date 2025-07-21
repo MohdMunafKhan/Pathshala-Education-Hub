@@ -71,8 +71,8 @@ src/
 ## Installation & Run Locally
 
 ```bash
-git clone https://github.com/your-username/pathshala.git
-cd pathshala
+git clone https://github.com/MohdMunafKhan/Pathshala-Education-Hub.git
+cd pathshala-app
 npm install
 npm start
 
