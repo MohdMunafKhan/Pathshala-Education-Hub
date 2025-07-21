@@ -67,8 +67,7 @@ src/
 ├── App.jsx             # Main App routing
 ├── App.css            # Global styles
 └── main.jsx           # App entry point
-```
----
+
 
 ```
 ## Installation & Run Locally
@@ -78,8 +77,7 @@ git clone https://github.com/MohdMunafKhan/Pathshala-Education-Hub.git
 cd pathshala-app
 npm install
 npm start
-```
----
+
 
 ```
 ## Purpose
