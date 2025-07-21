@@ -1,0 +1,336 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Times New Roman', Times, serif;
+  box-sizing: border-box;
+}
+
+body{
+  scroll-behavior: smooth;
+}
+
+.nav-item{
+  font-size: 18px;
+}
+
+/*Home Page*/
+
+/* Home Page - Head Section */
+
+.header-section{
+  background-image: url("assets/head-img.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.header-section div{
+  width: 75%;
+}
+
+/* Home Page - About Section */
+
+.about-head div{
+  width: 75%;
+}
+
+.about-home img{
+  width: 80%;
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.about-home img:hover{
+  transform: scale(1.1);
+}
+
+/* Home Page - Vision and Mission Section */
+
+.vision-mission{
+  background-color: #eaf0f6;
+}
+
+.vision-box, .mission-box{
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.vision-box, .mission-box p{
+  font-size: 17px;
+  text-align: justify;
+}
+
+.vision-box:hover, .mission-box:hover{
+  transform: translateY(-6px);
+}
+
+/* Home Page - Recognition Section */
+
+.recog-box{
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.recog-box h5{
+  font-size: 21px;
+}
+
+.recog-box p{
+  font-size: 18px;
+}
+
+.recog-box li{
+  list-style-type: none;
+  font-size: 18px;
+}
+
+.recog-box:hover{
+  transform: translateY(-6px);
+}
+
+/* Home Page - Success Story Section */
+
+.success-stories{
+  background-color: #eaf0f6;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  background-color: gray;
+  border-radius: 50%;
+  padding: 10px;
+}
+
+/* Home Page - Membership Section */
+
+.connect-box{
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.connect-box:hover{
+  transform: translateY(-6px);
+}
+
+/* Material Page */
+
+.material-head{
+  background-image: url("assets/material-img.png");
+  background-size: contain;
+  background-position: center;
+  height: 300px;
+}
+
+.material-head div{
+  width: 75%;
+}
+
+.material-body{
+  background-color: #eaf0f6;
+}
+
+.material-box{
+  background-color: white;
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.material-box:hover{
+  transform: translateY(-6px);
+}
+
+/* Get Resources Page*/
+
+.get-res{
+  background-color: #eaf0f6;
+}
+
+.card{
+  box-shadow: 5px 5px 10px gray;
+}
+
+
+/* About Page */
+
+.about-head{
+  background-image: url("assets/about-head.png");
+  background-size: cover;
+  background-position: center;
+  height: 500px;
+}
+
+.story-box{
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.story-box p{
+  font-size: 17px;
+}
+
+.story-img-box{
+  transition: all 0.3s ease-in-out;
+}
+
+.story-img-box img{
+  width: 100%;
+  height: 260px;
+  box-shadow: 4px 4px 8px gray;
+}
+
+.story-box:hover, .story-img-box:hover{
+  transform: translateY(-6px);
+}
+
+.impact-box{
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.impact-box:hover{
+  transform: translateY(-6px);
+}
+
+.recognitions{
+  background-color: #eaf0f6;
+}
+
+.recognition-box{
+  background-color: white;
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.recognition-box:hover{
+  transform: translateY(-6px);
+}
+
+/* Guidance Page */
+
+.guidance{
+  background-color: #eaf0f6;
+}
+
+.guidance-box{
+  background-color: whitesmoke;
+  box-shadow: 4px 4px 8px gray;
+}
+
+.guidance-img img{
+  transition: all 0.3s ease-in-out;
+}
+
+.guidance-img img:hover{
+  transform: translateY(-6px);
+}
+
+/* Membership Page*/
+.membership{
+  background-color: #eaf0f6;
+}
+
+.member-box{
+  background-color: whitesmoke;
+}
+
+.member-box dl{
+  font-size: 17px;
+}
+
+.member-form{
+  background-color: whitesmoke;
+}
+
+/* Support Us Page*/
+
+.support{
+  background-color: #eaf0f6;
+}
+
+.support-box-1{
+  background-color: whitesmoke;
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.support-box-1:hover{
+  transform: translateY(-6px);
+}
+
+.support-box-img img{
+  width: 100%;
+  height: 290px;
+  transition: all 0.3s ease-in-out;
+}
+
+.support-box-img img:hover{
+  transform: translateY(-6px);
+}
+
+.support-donate{
+  background-color: whitesmoke;
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.support-donate:hover{
+  transform: translateY(-6px);
+}
+
+.support-donate-box dl{
+  font-size: 18px;
+}
+
+.support-donate-img img{
+  width: 100%;
+  height: 240px;
+}
+
+
+.support-box-2{
+  background-color: whitesmoke;
+  box-shadow: 4px 4px 8px gray;
+  transition: all 0.3s ease-in-out;
+}
+
+.support-box-2:hover{
+  transform: translateY(-6px);
+}
+
+/* COntact Page*/
+.contact{
+  background-color: #eaf0f6;
+}
+
+.contact-form{
+  background-color: whitesmoke;
+  box-shadow: 4px 4px 8px gray;
+}
+
+/* Footer */
+
+.footer-1{
+  background-color: rgba(31, 41, 55, 1);
+}
+
+.quick-links-box li a{
+  text-decoration: none;
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+
+.quick-links-box li a:hover{
+  color: rgb(46, 46, 160);
+}
+
+.follow-links-box a{
+  color: white;
+  transition: all 0.3s ease-in-out;
+}
+
+.follow-links-box a:hover{
+  color: rgb(46, 46, 160);
+}
+
+.footer-2{
+  background-color: rgba(3, 7, 18, 1);
+}
