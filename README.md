@@ -77,17 +77,19 @@ npm install
 npm start
 
 ```
-Purpose
+## Purpose
 This project is developed to showcase my frontend development skills to recruiters and potential employers. It reflects my ability to build responsive, interactive, and accessible web applications using modern tech stacks.
 
+---
 
-Disclaimer
+## Disclaimer
 This is a demo project. All organization names, contact details, and banking info shown on the website are fictional and used for learning/demo purposes only.
 
-Contact Me
-If you'd like to connect or provide feedback:
+---
 
-Munaf Khan
+## Contact Me
+If you'd like to connect or provide feedback:
+Mohd Munaf Khan
 Email: munafk512@gmail.com
 LinkedIn: http://www.linkedin.com/in/mohd-munaf-khan-30b195231
 
