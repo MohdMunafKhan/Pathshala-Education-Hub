@@ -91,8 +91,8 @@ This is a demo project. All organization names, contact details, and banking inf
 ---
 
 ## Contact Me
-If you'd like to connect or provide feedback:
-Mohd Munaf Khan
-Email: munafk512@gmail.com
-LinkedIn: http://www.linkedin.com/in/mohd-munaf-khan-30b195231
+**If you'd like to connect or provide feedback:**
+**Mohd Munaf Khan**
+**Email: munafk512@gmail.com**
+**LinkedIn: http://www.linkedin.com/in/mohd-munaf-khan-30b195231**
 
